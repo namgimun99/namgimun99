@@ -24,8 +24,7 @@ They think, research, create, and connect practical realizations through the web
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](링크)
 <br>
 언어:[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](링크)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](링크)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 <br>
 운영체제:[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](링크)
 
@@ -38,10 +37,9 @@ They think, research, create, and connect practical realizations through the web
 🐱 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:survd0404@gmail.com)](survd0404@gmail.com)
-  [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://code-sumin.tistory.com/)
+  [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://gimuncoding.tistory.com/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://subsequent-cough-ba2.notion.site/2e487be90dcf4fc09653884f88c88b4a?pvs=4
-)](https://subsequent-cough-ba2.notion.site/2e487be90dcf4fc09653884f88c88b4a?pvs=4
-)
+)](https://www.notion.so/569d3c329abb45f19d9939f48ae679b7)
 
 <!--
 **Hongmebuilding/Hongmebuilding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
