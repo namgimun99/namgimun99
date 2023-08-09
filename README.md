@@ -1,4 +1,4 @@
-### Hi Welcome, i'm SUMIN LEE 👋
+### Hi Welcome, i'm GIMUN NAM 👋
 
 #### WEB Developer
 Back-end developers contribute to creating beneficial social values. 
