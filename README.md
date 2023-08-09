@@ -36,7 +36,6 @@ They think, research, create, and connect practical realizations through the web
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:survd0404@gmail.com)](survd0404@gmail.com)
   [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://gimuncoding.tistory.com/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://subsequent-cough-ba2.notion.site/2e487be90dcf4fc09653884f88c88b4a?pvs=4
 )](https://www.notion.so/569d3c329abb45f19d9939f48ae679b7)
