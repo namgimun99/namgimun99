@@ -26,7 +26,6 @@ They think, research, create, and connect practical realizations through the web
 언어:[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 <br>
-운영체제:[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](링크)
 
 
 💪🏼 Tools 
