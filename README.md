@@ -1,4 +1,4 @@
-안녕하세요 
+안녕하세요  <br>
 웹 개발자 남기문 입니다.
 
 
@@ -25,12 +25,15 @@
 
 💪🏼 Tools 
 
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
 
 
 🐱 About Me
 
-  [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://gimuncoding.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://gimuncoding.tistory.com/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://subsequent-cough-ba2.notion.site/2e487be90dcf4fc09653884f88c88b4a?pvs=4
 )](https://www.notion.so/569d3c329abb45f19d9939f48ae679b7)
 
