@@ -4,7 +4,7 @@
 ---
 
 ### 🖥️ Server
-<img src="https://img.shields.io/badge/Zeus Server-007396?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Linux Server-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle WebLogic-2F2625?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zeus Server-007396?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Linux Server-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 
 ---
 
