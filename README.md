@@ -14,7 +14,7 @@
 ---
 
 ### ⚙️ Framework
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JSP-F7DF1E?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-43853D?style=flat-square&logo=mybatis&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JSP-F7DF1E?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-43853D?style=flat-square&logo=mybatis&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 
 ---
 
